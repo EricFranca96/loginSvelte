@@ -1,0 +1,25 @@
+<script>
+    
+</script>
+
+<main>
+    <div class="login-container">
+
+    </div>
+</main>
+
+
+<style>
+    main{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .login-container{
+        height: 480px;
+        width: 768px;
+        border-radius: 12px;
+        box-shadow: 0 5px 20px #a0a0a0;
+    }
+</style>

@@ -22,6 +22,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@svelte-web-fonts/google": "^1.0.4",
 		"lucide-svelte": "^0.276.0"
 	}
 }

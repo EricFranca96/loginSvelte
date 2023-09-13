@@ -1,0 +1,9 @@
+<style>
+    :root{
+    --primary-color: #FF3131;
+    --secundary-color: #FFF;
+    --text-color-dark: #000;
+    --text-color-light: #fff;
+    --icon-color: #F3F3F3;
+}
+</style>

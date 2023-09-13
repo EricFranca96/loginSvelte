@@ -18,6 +18,8 @@
         justify-content: space-between;
         align-items: center;
         padding: 55px 0;
+        transition: 1s;
+        background-color: var(--secundary-color);
     }
 
     

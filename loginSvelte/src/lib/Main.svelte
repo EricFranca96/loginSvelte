@@ -1,6 +1,6 @@
 <script>
 	import LoginContainer from "./LoginContainer.svelte";
-    import Container from "./LoginContainer.svelte";
+    
 </script>
 
 <main>

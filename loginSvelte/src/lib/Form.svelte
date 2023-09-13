@@ -24,6 +24,6 @@
 
     
     .form-register{
-        background-color: tomato;
+       
     }
 </style>

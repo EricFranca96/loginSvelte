@@ -1,6 +1,6 @@
 <script>
     import Icon from "./Icon.svelte";
-
+    import FormInput from "./FormInputContainer.svelte";
 </script>
 
     <h2 class="form-title">Entrar com</h2>
@@ -8,9 +8,8 @@
         <Icon/>
     </div>
     <p class="form-text">ou utilize sua conta</p>
-    <div class="form-input">
-        <input type="email" class="form-input" placeholder="Email">
-        <input type="passowrd" class="form-input" placeholder="Senha">
+    <div class="form-input-container">
+        <FormInput/>
     </div>
     <a href="/pagina" class="form-link">Esqueceu a senha?</a>
     <button class="form-button">Logar</button>
@@ -25,6 +24,11 @@
     .form-social{
         display: flex;
         gap: 24px;
+    }
+    .form-input-container{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
     }
     
 </style>

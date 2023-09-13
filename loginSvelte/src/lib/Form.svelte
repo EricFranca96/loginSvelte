@@ -1,12 +1,15 @@
 <script>
     import FormLogin from "./FormLogin.svelte";
+    import FormRegister from "./FormRegister.svelte";
     
 </script>
 
     <form class="form form-login">
         <FormLogin/>
     </form>
-    <form class="form form-register"></form>
+    <form class="form form-register">
+        <FormRegister/>
+    </form>
     
 
 <style>

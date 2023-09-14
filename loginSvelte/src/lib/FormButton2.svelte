@@ -24,4 +24,6 @@
         background-color: var(--primary-color);
         color: var(--secundary-color);
     }
+
+    
 </style>

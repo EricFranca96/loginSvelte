@@ -24,7 +24,9 @@
         left: 0;
         width: 50%;
         height: 100%;
-        background-color: aqua;
+        color: var(--text-color-light);
+        transform: translateX(100%);
+        text-align: center;
     }
 
 </style>

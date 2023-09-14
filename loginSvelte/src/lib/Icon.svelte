@@ -2,9 +2,9 @@
     import { Facebook } from 'lucide-svelte';
     import { Chrome } from 'lucide-svelte';
     import { Linkedin } from 'lucide-svelte';
-    import Color from './Color.svelte';
+    
 </script>
-    <Color/>
+    
 
 <a href="/pagina" class="social-icon">
     <Facebook/>

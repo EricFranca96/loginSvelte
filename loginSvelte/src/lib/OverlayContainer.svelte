@@ -2,7 +2,11 @@
     
 </script>
 
-    <div class="overlay"></div>
+    <div class="overlay">
+        <h2 class="form-title">Já tem conta?</h2>
+        <p class="form-text">Para entrar na nossa plataforma faça login com suas informações</p>
+        <button class="form-button">Entrar</button>
+    </div>
     <div class="overlay">
         <h2 class="form-title">Olá Aluno!</h2>
         <p class="form-text">Cadastre-se e comece a usar a nossa plataforma on-line</p>
@@ -24,7 +28,7 @@
         display: flex;
         justify-content: space-evenly;
         align-items: center;
-        padding: 60px;
+        padding: 40px;
         background-color: var(--primary-color);
         
     }
